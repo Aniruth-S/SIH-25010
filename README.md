@@ -69,14 +69,6 @@ Language & Literacy Barriers → Inclusive Design: The voice-enabled, multilingu
 Innovation and uniqueness of the solution
 Hyper-Personalized Recommendation Engine: While other apps provide generic advice, our core innovation is an AI engine that synthesizes multiple data layers—soil health, real-time weather, satellite imagery (for NDVI/crop health), and farmer's crop history—to create a truly personalized and adaptive advisory service.
 
-Vernacular-First, Voice-Driven Interface: The system is not an English platform translated into other languages. It is built from the ground up with a "vernacular-first" and "voice-first" approach, making it accessible to the widest possible audience.
-
-Integrated Ecosystem: Krishi Mitra AI is not a single-feature app. It is a comprehensive decision support system that integrates farm management (crop calendar), problem diagnosis (pest detection), resource management (fertilizer/water), and market intelligence (mandi prices) into one seamless platform.
-
-Closed-Loop Feedback Mechanism: The app allows farmers to provide feedback on the advice and report their final crop yield. This data is fed back into our machine learning models, creating a virtuous cycle where the system's recommendations become progressively more accurate over time for that specific region.
-
-
-
 ## Technical Approach
 
 Technologies to be used
